@@ -17,7 +17,7 @@
   margin-bottom: 20rpx;
 }
 .image {
-  height: 700rpx;
+  height: 450rpx;
   width: 100%;
 }
 .word-name {
